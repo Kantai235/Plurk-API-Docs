@@ -1266,8 +1266,7 @@ wonders
 Parameter | Description
 --------- | -----------
 limited_to | Limit the plurk only to some users (also known as private plurking). `limited_to` should be a JSON list of friend ids, e.g. limited_to of `[3,4,66,34]` will only be plurked to these user ids. If limited_to is `[0]` then the Plurk is privatley posted to the poster's friends.
-no_comments | If set to 1, then responses are disabled for this plurk.
-If set to 2, then only friends can respond to this plurk.
+no_comments | If set to 1, then responses are disabled for this plurk. If set to 2, then only friends can respond to this plurk.
 lang | The plurk's language. Can be following: Show example data
 
 > lang | The plurk's language. Can be following: Show example data
